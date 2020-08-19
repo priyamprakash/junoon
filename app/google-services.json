@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "916188579736",
+    "firebase_url": "https://junoon-app.firebaseio.com",
+    "project_id": "junoon-app",
+    "storage_bucket": "junoon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916188579736:android:f82f5ebb150f993b870ded",
+        "android_client_info": {
+          "package_name": "com.mitm.junoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916188579736-mn9acc9ktcv6bvdc4t8i2auvb8joe0qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mitm.junoon",
+            "certificate_hash": "52db164d44a6807b5c01c4aee51eda9cb92e72b5"
+          }
+        },
+        {
+          "client_id": "916188579736-6j2kugadnt23hdrp9j0lnnm6agsvfhrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mitm.junoon",
+            "certificate_hash": "05e20a6b4818b8d559d961bdb6bf7e4f5fabd887"
+          }
+        },
+        {
+          "client_id": "916188579736-flojvk0juko2q3k545stuhcihgakfgl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofsTB7P9Xps1vtd8PZ3K4hQFkia45bKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916188579736-flojvk0juko2q3k545stuhcihgakfgl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

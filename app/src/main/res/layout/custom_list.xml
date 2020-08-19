@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="5dp">
+ <androidx.cardview.widget.CardView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     app:cardCornerRadius="12dp"
+     app:contentPadding="6dp"
+     android:layout_margin="3dp"
+     >
+
+     <RelativeLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:padding="10dp"
+         >
+
+         <TextView
+             android:id="@+id/code_name"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+         android:text="Pie"
+             android:textColor="#690101"
+             android:textSize="20sp"
+             />
+         <TextView
+             android:id="@+id/code_version"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+         android:text="9.0"
+             android:textColor="#690101"
+             android:textSize="20sp"
+             android:layout_alignParentEnd="true"
+             />
+
+     </RelativeLayout>
+ </androidx.cardview.widget.CardView>
+</RelativeLayout>

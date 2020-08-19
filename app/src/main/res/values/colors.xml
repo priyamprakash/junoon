@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey_50">#FAFAFA</color>
+    <color name="cyan_800">#0097A7</color>
+    <color name="cyan_800_overlay">#CC00838F</color>
+    <color name="white">#fff</color>
+    <color name="amber_500">#F31C4E</color>
+    <!-- Edit primary color code to change your Toolbar color -->
+    <color name="colorPrimary">#FF9800</color>
+
+    <color name="colorPrimaryDark">#E65100</color>
+
+    <color name="colorAccent">#FF6F00</color>
+</resources>
+
+
+

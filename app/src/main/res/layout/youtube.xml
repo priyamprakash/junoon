@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarSize="10dp"
+
+    >
+
+    <include layout="@layout/custom_toolbar"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbarThumbVertical="@drawable/custom_scroll_style"
+        >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="OUVTtyq5e40"
+        app:autoPlay="false"
+        app:showYouTubeButton="false"
+
+        />
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="Ycc1iT5ieYo"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="Jiv6ZSDa-t0"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="dCxHohMXs-k"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="OPIBoHNum2A"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="bAoCowshIiM"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="l8dAXfE7v-I"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="W1cG2U3rgl4"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="aBUl2TIOTEc"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+
+        /> <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:videoId="hrVSMnK2wBg"
+        app:autoPlay="false"
+        android:layout_marginTop="35dp"
+        app:showYouTubeButton="false"
+       android:layout_marginBottom="35dp"
+        />
+</LinearLayout>
+    </ScrollView>
+</LinearLayout>

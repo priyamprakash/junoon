@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dash7"
+
+    >
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/l"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/edtphncall"
+        style="@style/Widget.AppCompat.Light.AutoCompleteTextView"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginRight="33dp"
+        android:hint="Enter Telephone No."
+        android:textColorHint="#fff"
+        android:fontFamily="@font/imprima"
+        android:inputType="number"
+        android:shadowColor="#fff"
+        android:textColorHighlight="#fff"
+        android:textColorLink="#fff"
+        tools:ignore="InvalidId"
+        android:autofillHints="" />
+
+
+    <Button
+        android:id="@+id/btnphncall"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+  android:layout_marginTop="15dp"
+        android:background="@drawable/dash2"
+        android:elevation="50dp"
+        android:fontFamily="@font/imprima"
+        android:outlineSpotShadowColor="#8D38F6"
+        android:padding="20dp"
+        android:shadowColor="#8D38F6"
+        android:text="Call"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shakib"
+        android:textColor="#fff"
+        android:textSize="18dp"
+         android:layout_marginRight="10dp"
+         android:fontFamily="@font/imprima"
+        android:textStyle="bold"
+        /><TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 7634814452"
+        android:textColor="#fff"
+        android:textSize="18dp"
+
+        android:textStyle="bold"
+        />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:orientation="horizontal">
+
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pratyush"
+        android:textColor="#fff"
+         android:layout_weight="2"
+        android:textSize="18dp"
+         android:layout_marginRight="15dp"
+         android:fontFamily="@font/imprima"
+        android:textStyle="bold"
+        /><TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 8409343471"
+        android:textColor="#fff"
+            android:layout_weight="1"
+        android:textSize="18dp"
+        android:fontFamily="@font/imprima"
+        android:textStyle="bold"
+        />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+              android:layout_marginTop="50dp"
+            android:orientation="horizontal">
+
+     <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/priyam"
+        android:textColor="#fff"
+        android:textSize="18dp"
+         android:visibility="visible"
+         android:layout_marginRight="30dp"
+         android:fontFamily="@font/imprima"
+        android:textStyle="bold"
+        /><TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  7493859233"
+            android:visibility="visible"
+        android:textColor="#fff"
+        android:textSize="18dp"
+        android:fontFamily="@font/imprima"
+        android:textStyle="bold"
+        />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,502 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="desc"></string>
+    <string name="exit">Are you sure you want to exit ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+     <string name="profile_click">Click on the profiles to send E-mail</string>
+    <string name="society_wise">Society wise faculties</string>
+    <string name="link">Linked-In</string>
+    <string name="tweet">Twitter Account</string>
+    <string name="nehru">A play on Pt. Jawaharlal Nehru was organised by the club in order
+        to celebrate the Birth Anniversary of our first Prime Minister </string>
+    <string name="ritu">RITURAJ</string>
+    <string name="women">A video making competition was organised by Junoon on the
+        occasion of International Women\'s Day -2020.The Best 5 of them were posted on the
+        Junoon instagram page.
+    </string>
+     <string name="foundation">The foundation day of MIT was celebrated on the 25th of
+        September, 2019 organised by JUNOON club with many different events and
+        performances including a short play showing some glimpses of MIT\'s history.</string>
+    <string name="doc">Form</string>
+
+    <string name="events">Events</string>
+    <string name="team">Team</string>
+
+    <string name="fb">Facebook Page</string>
+    <string name="insta">Instagram Page</string>
+    <string name="mail">Email us</string>
+    <string name="call">Place call</string>
+    <string name="Map">Find us- Google Map</string>
+
+   <string name="society">Societies</string>
+    <string name="lit">Literature and Debate Society</string>
+   <string name="act">Acting and Drama Society</string>
+   <string name="mad">Music and Dance Society</string>
+   <string name="fine">Fine Arts Society</string>
+
+    <string name="founder">Initiators</string>
+    <string name="vivek">VIVEK KUMAR </string>
+    <string name="raja">RAJA BABU</string>
+    <string name="aakash">AAKASH KUMAR</string>
+    <string name="ashwini">ASHWINI KUMAR</string>
+    <string name="ashish">ASHISH CHAURASIA</string>
+    <string name="deepak">DEEPAK KUMAR</string>
+    <string name="isha">ISHA SHARMA</string>
+
+    <string name="vivekdesc">BATCH: 2015\n\nBRANCH: Mechanical Engineering</string>
+    <string name="rajadesc">BATCH: 2015\n\nBRANCH: Civil Engineering \ \ \ \ \ \ \ \ \ \ </string>
+    <string name="aakashdesc">BATCH: 2015\n\nBRANCH: Mechanical Engineering</string>
+    <string name="ashwinidesc">BATCH: 2015\n\nBRANCH: Mechanical Engineering</string>
+    <string name="ashishdesc">BATCH: 2015\n\nBRANCH: Mechanical Engineering</string>
+    <string name="deepakdesc">BATCH: 2015\n\nBRANCH: Mechanical Engineering</string>
+    <string name="ishadesc">BATCH: 2015\n\nBRANCH: Mechanical Engineering</string>
+
+
+
+
+
+    <string name="f1">Fiesta\'18</string>
+    <string name="f1desc">Junoon-The Arts and Cultural Club of MIT Muzaffarpur organized an event
+        on the occasion of its first Anniversary under the name fiesta’18 . The event was
+        inaugurated by Chief guest Dr. SK Jha with auspicious Lamp Lighting ceremony joined by
+        Guest of Honor Prof. Ashutosh Kumar and other dignitaries CB Roy  and Prof. NR Barnwal .
+        Later the audience were addressed by Prof. Ashutosh Kumar  by his precious words of
+        wisdom.\n
+        Also,
+        Dr. SK Jha enlightened the audience with his thought provoking words. There were  13
+        performances throughout the event (5 Dancing, 2 Poetry and 6 Singing). The selection for the
+        performance was conducted through audition judged byProf. HC Verma ,Prof. Sobhit  and
+        Prof. Pallav .</string>
+
+
+    <string name="f2">Fiesta 2.0</string>
+    <string name="f2desc">An enigmatic zeal in the heart with dazzling decor, ravishing roar enfolded in daring manoeuvre. Fiesta 2.0 was the annual cultural fest of MIT Muzaffarpur celebrated on 23rd October 2019 . The occasion was a grand and successful gaiety inaugurated by the principal of MIT Muzaffarpur Dr J. N. Jha. A feeling envisage in those who witnessed the grandiose celebration and wants to carry fiesta forward nailing a milestone for the future. </string>
+    <string name="van">Van Mahotsav</string>
+
+    <string name="vandesc">When nature heals, mankind flourishes to its brink. Van Mahotsav was
+        celebrated on 5th August 2019, organised by JUNOON- the Arts and Cultural Club. Through
+        this occasion Junoon encouraged students to participate in  mass to show concern towards
+        nature. Multiple events were organised to boost social understanding among students and to prevent the depletion of nature. Mass scale plantation in the campus was carried as an initiative to protect the ecosystem and keeping the Indian values intact.
+    </string>
+    <string name="earlyevents">Glimpse</string>
+    <string name="pu">PRIYANSHU KUMAR</string>
+    <string name="pp">PRIYAM PRAKASH</string>
+
+
+    <string name="faculties">Faculty Coordinators</string>
+    <string name="ashutoshsir">Dr. Ashutosh Kumar</string>
+    <string name="ashishsir">Mr. Ashish Kumar</string>
+    <string name="hcvsir">Mr. Hari Charan Verma</string>
+    <string name="sktsir">Dr. Swatantra Kr. Tiwari</string>
+    <string name="nidhishsir">Dr. Nidhish Kr. Singh</string>
+    <string name="pranavsir">Mr. Pranav Kumar</string>
+    <string name="amitsir">Mr. Amit Kr. Tiwari</string>
+    <string name="shailmam">Dr. Shail Bala</string>
+    <string name="umarsir">Mr. Umar Farooque</string>
+    <string name="ankitsir">Mr. Ankit Kumar</string>
+    <string name="nitishsir">Mr. Nitish Kumar</string>
+    <string name="shwetamam">Ms. Shweta Kumari</string>
+    <string name="pawansir">Mr. Pawan Kr. Jaiswal</string>
+
+    <string name="centralfac">Faculty Council</string>
+    <string name="member_sociey">Faculty Coordinator</string>
+    <string name="excentralfac">Ex- Faculty Council</string>
+
+    <string name="alumini">Junoon Family</string>
+    <string name="pushpam">PUSHPAM BHARTI</string>
+    <string name="ruhi">RUHI KUMARI</string>
+
+
+    <string name="central">Executives</string>
+    <string name="shakib">Md. Shaquib Ullah</string>
+    <string name="nizam">Md. Nizamuddin</string>
+    <string name="aditya">Aditya Singh</string>
+    <string name="ishita">Ishita Shreya</string>
+
+    <string name="coordinators">Senior Members</string>
+    <string name="pratyush">Pratyush Chandra</string>
+    <string name="gaurav">Gaurav Singh</string>
+    <string name="prem">Prem Prakash</string>
+    <string name="rahulsinha">Rahul Kumar Sinha</string>
+    <string name="shivangi">Shivangi</string>
+    <string name="vandana">Vandana Bharti</string>
+    <string name="saubhik">Saubhik Kumar Mahto</string>
+    <string name="adityamishra">Aditya Raj</string>
+    <string name="aadil">Aadil Raza</string>
+    <string name="shivam">Shivam Sagar</string>
+    <string name="tammana">Tamanna Choudhary</string>
+    <string name="aparna">Aparna Rani</string>
+    <string name="shashi">Shashi Ranjan</string>
+
+    <string name="secondyr">Members</string>
+    <string name="rahul">Rahul</string>
+    <string name="abhinav">Abhinav</string>
+    <string name="yashshvi">Yashshvi Kumar Singh</string>
+    <string name="yashwant">Yeshwant Singh</string>
+    <string name="juhi">Juhi </string>
+    <string name="rupin">Shashikant Rupin</string>
+    <string name="nikita">Nikita </string>
+    <string name="shruti">Shruti Kuamri</string>
+    <string name="priyam">Priyam Prakash</string>
+    <string name="haidar">Md. Haidar Ali</string>
+    <string name="sujit">Sujit Tiwari</string>
+    <string name="abhishek">Abhishek Kumar</string>
+    <string name="tej">Tej Pratap</string>
+    <string name="ravi">Raviranjan Varma</string>
+    <string name="vishay">Vishay Kaushik</string>
+    <string name="ayush">Ayush Vats</string>
+    <string name="sumit">Sumit Shekhar</string>
+    <string name="pritam">Pritam Raj</string>
+    <string name="rushali">Rushali Raj</string>
+    <string name="rinki">Rinki Rani</string>
+    <string name="aradhya">Aaradhya Roy</string>
+
+
+    <string name="litformal">
+    SOCIETY: Literature and Debate Society \n\nFACULTIES: Dr. Shail Bala, Mr. Umar
+    Farooque\n\nROLE: Organising,Poetry,Story writing and debate competition to enhance personality
+    and promote hindi and english literary works</string>
+    <string name="actformal">SOCIETY: Acting and Drama Society\n\nFACULTIES:Mr. Ankit
+        Kumar, Mr.Nitish Kumar\n\nROLE:Organising drama and acting competitions,nukkad - natak and
+        flash mob to bring confidence among youth and bring awareness in the society</string>
+    <string name="madformal">SOCIETY: Music and Dance Society \n\nFACULTIES: Mr. Pranav
+        Kumar, Mr.Amit Kumar Tiwari\nROLE:\nOrganising music and dance competitions in order
+        to nurture dancers and singers and to introduce students to various dance forms</string>
+    <string name="fineformal">SOCIETY: Fine arts Society \n\nFACULTIES: Mrs.Shweta Kumari, Mr.Pawan
+        Kumar Jaiswal\n\nROLE:Organising fine arts and painting competitions and to make students
+        familiar with the old indian painting and fine arts culture </string>
+
+
+    <string name="actdesc">“Acting is behaving truthfully under imaginary circumstances.”\n-
+        Sanford Messier\n\n
+
+Dramatic skills takes to solubilises an audience in an sky of emotions and actions. The colourful lights, cameras and the audience awaits the magic of the artist. Taking the expressions to the next level, just to belong to the stage where stage is set and waiting for the next grand act. In a civilization , where the happiness, and indeed almost the existence , of man, depends so much upon the opinion of his fellow men, he is always acting a studied part. In a drama, an actor is vulnerable. His total personality is exposed to critical judgment - his intellect, his bearing, his diction, his whole appearance. One who can reveal his emotions in front of the audience has a stage to break the ice and bag showers of thunderclap.
+    </string>
+    <string name="maddesc">\“Every song has it\’s own heartbeat. The pulse in music is what makes it
+        alive.\”
+        \n- J.R. Rim\n\n
+        In this fast-developing world, very few people have a natural essence for dance and music.
+        To  catch the attention and attract people to stay and watch the performance, an artist
+        needs to make the audience connect as -
+        \“Music touches us emotionally, where words alone can\’t\”. The voice that can win hearts
+        and steal the show, will dazzle the audience with stupefied expressions.
+        This society is an ideal platform to show the talent and prove your mettle chance. The
+        art of grabbing the audience\’s attention is all that is needed.
+        Dance is only pure action full of energy and technique. There\’s something in the soft
+        move of the arms or the mellifluous beats of a beads that the human moves cannot seem to match.
+        Dancers spend years perfecting their art, to achieve the thrilling pace at which they change moves.
+        Talent is not rare, but the opportunity to showcase is\” , dance and music society
+        unfolds the blissful synchronicity, energy and creativity unfold themselves and the stage
+        echoes with tge thud of steps, diverse with every leg yet unified with every beat.\n\n
+
+\“Dancing is creating a sculpture that is visible only for a moment.\”\n-Erol Ozan
+    </string>
+    <string name="litdesc">
+\“Not all those who wander are lost.\”
+        \n- The Lord of the Rings, J.R.R. Tolkien\n\n
+History has shown that those who influence all others with words always reign supreme.
+        These minds challenge each other to test the wit of their tongues and the sharpness of their minds.
+        Such argument results in the most devastating jabs,  a battle of ideology, a clashing of
+        principles and morals. Even the coiffed Tharoor can be toppled through the wit and
+        oratory capabilities.\n\n
+        Challenge your craziest opponent  at the podium and prove once
+        and for all that none stand above you in the grand old art of using words to sway minds
+        and then demarcate your own \'imaginative\' literature. The literature and debate society
+        saves the opportunity for all the mindful tongues that are ready to chatter at topics that
+        could yield a new path to glorify and instigate decent audience hearing like a newly born.
+\“Reading makes a full man, meditation a profound man, discourse a clear man\”.
+        \n- Benjamin Franklin
+    </string>
+    
+    <string name="finedesc">\“Painting is a blind man\'s profession. He paints not what he sees, but
+        what he feels, what he tells himself about what he has seen\”.
+        \n Pablo Picasso\n\n\n
+
+Painting is silent poetry because a picture speaks volumes. Putting an end to all the scolding ,
+        all the punishments, all the glares from the known \'intellectuals\' and  let’s just be
+        ourselves. Grabbing the buckets, filling our hands with colours and throwing them at our
+        heart\'s will is what liberate the artist from the shackles breaking stereotypes and creating something out of the box.
+        The fine arts society brings to us events that will bring back the colourful artistic child in you.
+</string>
+
+
+    <string name="junoon1">JUNOON</string>
+    <string name="junoonclubdesc">
+By imitating art and culture,one becomes the world\'s greatest sensitive hearted person.From the very beginning, drama, dance and music has been considered as the best medium to awaken human emotions such as joy, compassion and mutual harmony among the creatures.\n\n
+
+       \tMIT Muzaffarpur formed  JUNOON: The Arts and Cultural club on 13 September 2017,
+        encouraging the artistry of students which provided new direction to the talent of the students.They were able to represent the institute with their art in the courtyards of various Indian technical institutes and waved the victory flag.JUNOON is always respected for the it\'s passion to recognize the talent of the students and to enhance the pride of the institute.</string>
+
+
+
+
+
+
+    <string name="mission">MISSION</string>
+    <string name="vision">VISION</string>
+    <string name="visiondesc">To recognize budding talents in the field of arts and culture and
+    nurture the recognized artists towards excellence.\n\n
+
+    To create competent ambiance to set an
+    example in and away from the college campus.\n\n
+
+    Moreover, club\’s vision is to standardize the
+    practice of socio-cultural activities parallel to global standards and to provide multiple
+    platforms to the artists to represent the art and cultural forms in accordance with standard
+    rules and regulations.\n
+
+
+
+</string>
+    <string name="missiondesc">To inspire and instil awareness regarding the need for recognising
+        the relevance of socio-cultural activities in the modern world.\n\n
+
+        To bring self-confidence in artist and perfection in different artistic forms in order to
+        vanquish the hesitation and solitary confinement into dexterity.\n\n
+
+        To offer updates and opportunities to learn different art and cultural forms through
+        workshops, competitions, stage performances etc.\n\n
+
+        To develop students as an artist in any interested art or cultural form and,\n\n
+
+        to bring  potential artists in the light and brush
+        them to attain appreciation and recognition.\n
+
+
+</string>
+    <string name="apptheme1">In order to retrieve the forgotten importance of old forms of Indian paintings,we have decided to promote them through this app.For this time, MADHUBANI PAINTINGS from Madhubani (Bihar),has been kept as the theme of our JUNOON APP.Below we bring a brief introduction about this kind of paintings.Every new update will bring to you a different form of Indian painting</string>
+<string name="apptheme2">MADHUBANI PAINTINGS are a style of indian and nepal painting, practiced in Mithila region of the indian subcontinent. Often characterized by complex geometrical patterns, these paintings are known for depicting nature and hindu ritual contents for particular occasions, including festivals, religious rituals, etc. This is done with a variety of tools, including fingers, brushes, nib-pens, and matchsticks and using natural dyes and pigments. The colors used in madhubani paintings are usually derived from plants and other natural sources. These art forms are appreciated all over the world for their great aesthetic value and their adherence to tradition.
+Before 1930, Madhubani paintings were not known to people that lived outside the Madhubani region. But in 1934, Bihar experienced a major earthquake and a British officer William G. Archer of the Madhubani area  noticed these unique arts on the damaged walls of Madhubani during his inspection and introduced this unique art to the people that reside outside Madhubani.
+Even after playing such a significant role in the society, due to lack of awareness among the people these arts forms are still struggling for their popularity and justified position. So, it is the need to preserve the dying arts of India and to fetch the justified fame for the struggling art and artists.
+In the limelight of this, Junoon has come forward in creating awareness and promoting this art
+    form, making it the official background theme of the JUNOON App.</string>
+    <string name="apptheme3">ORIGIN\n\n
+
+Originated at the time of Sita\'s marriage when Raja Janak ordered artists to depict the marriage
+        ceremony .\n\n
+
+        • Madhubani painting was traditionally created by the women of various
+        communities in the Mithila region.\n\n
+
+        • It originated from Madhubani district of the Mithila
+        region of Bihar.\n\n</string>
+    <string name="apptheme4">DESCRIPTION\n\n
+
+        • Mostly depict nature and Hindu religious motifs \n\n
+
+        • Themes generally revolve around Hindu deities like Krishna Ram , Shiva, Durga, Laxmi and
+        Saraswati.\n\n
+
+        • Natural objects like the sun, the moon, and religious plants like tulsi are also widely painted,
+        along with scenes from the royal court and social events like weddings.
+        Generally, no space is left empty; the gaps are filled by paintings of flowers, animals,
+        birds, and even geometric designs.\n\n
+
+        • The painting were traditionally done on freshly
+        plastered mud walls and floors of huts, but now they are also done on cloth, hand made
+        paper and canvas. \n\n
+
+        • Madhubani paintings are made from the paste of powdered rice.\n\n
+
+        • Madhubani paintings use two dimensional imagery, and the colours used are derived from
+        plants.\n\n
+
+        • Madhubani art has five distinctive styles\n : Bharni,Kachni,Tantric,Godnaand
+        Kohbar.\n\n</string>
+    <string name="apptheme5">DERIVATION OF NATURAL COLOURS \n\n
+
+        • BLACK- By blending soot and cow dung. \n\n
+
+        • YELLOW- From turmeric, pollen, lime, milk of banyan leaves \n\n
+
+        • BLUE- Indigo \n\n
+
+        • RED- Kusamflower juice or red sandalwood \n\n
+
+        • GREEN- wood of apple tree leaves \n\n
+
+        • WHITE- Rice powder \n\n
+
+        • ORANGE- Palasha flowers\n\n
+
+    </string>
+    <string name="ytr">YOUNG TALENT RECOGNITION</string>
+    <string name="ytrlit">Now you need not wait for us to organise events to show up your
+        talent.Send your beautiful writeup,short stories,poems,drama etc. Click this button below
+        and send us.Show your literary skills.If it\'s worth,it will surely be published on our
+        social media pages.Keep the medium either hindi or english.</string>
+    <string name="ytrfine">Now you need not wait for us to organise events to show up your
+        talent.Send your beautiful paintings,fine arts etc.Show your sketching skills.If it\'s worth,it will surely be published on our
+        social media pages.
+    </string>
+    <string name="ytract">Now you need not wait for us to organise events to show up your
+        talent.Send your acts,monologues,drama etc. Show your skills.If it\'s worth,it will surely be published on
+        our
+        social media pages.
+    </string>
+    <string name="ytrmad">Now you need not wait for us to organise events to show up your
+        talent.Send your singing and dancing audio or video clips.Show your  skills.If it\'s worth,it will surely be published on our
+        social media pages.
+    </string>
+<string name="ach1">JUNOON has always put in a remarkable effort in promoting art and cultural activities.The efforts have been made fruitful by the young talents ,the students of MIT.In this section ,we have listed all those who have made the college proud by participating in different activities inside and outside the college campus.</string>
+<string name="srijan">Srijan is the biggest Socio-Cultural festival of Eastern India which has
+    been in the limelight since 1977.Through JUNOON -The Arts and Cultural Club of MIT MUZAFFARPUR  the students got the chance to
+    participate in the cultural fest SRIJAN\’18  and SRIJAN\'19 IIT DHANBAD (ISM) to explore and
+    to show their talents. Students not just participated in many events but also broke the
+    barriers and won the titles like CHAI PE CHARCHA and FINE ARTS\n\n\n
+
+Srijan 18-\n\nRituraj (2015),WINNER,Debate Competition\n\n
+
+    Sristi Sneha ,2nd RUNNER UP, Debate Competition\n\n
+
+    Puja and Manisha (2017),WINNER,Hand Painting\n\n\n
+
+Srijan 19-\n\n
+Vishay Kaushik ,WINNER,Debate Competition\n\n
+
+    Vishay Kaushik, Finalist ,Solo dancing Competition
+    (Footloose) \n\n</string>
+
+    <string name="pubg">PUBG TOURNAMENT\n\n
+PlayerUnknown\'s Battlegrounds (PUBG) is an online
+multi player battle royal game developed and published by PUBG Corporation,
+ a subsidiary of South Korean video game company Bluehole.\n\n
+ The PUBG TOURNAMENT  was organised by Junoon in which  different teams from
+ the college participated in the form of squads .Few solo participants were also the part of the
+        event. </string>
+    <string name="street">STREET PLAY\n\n
+In order to make changes in the society and make people aware with scarce realities that are
+        faced by transgender,a street Play on \"Transgender – Our Acceptance is still missing\"
+        was organized
+by the Junoon – The Arts and Cultural Club, MIT Muzaffarpur .
+The only motive behind this event was to give some respect to them and make people to accept them as they are. </string>
+    <string name="photography">ONLINE  PHOTOGRAPHY COMPETITION\n\nAn online photography
+    competition
+    was conducted by Junoon on the occasion of Diwali. It was an inter college competition (open for all) . The aim of the photo contest was to promote the artistic side of a student socially and to celebrate the culture that we share.</string>
+
+
+
+  <string name="vanmahotsav_events"></string>
+    <string name="monday_events">MOTIVATION MONDAY \nArt is not what you see , but what
+        you make other\'s see.\n
+ JUNOON : The Art and Cultural club of our college brought a colossal opportunity for all
+        MITians to showcase their talent and let the college witness their dexterity every week.
+ MOTIVATION MONDAY
+A quintessential elbow room for all budding writers and poets.
+ A platform where one could send their authentic and genuine  creation like quotes and poems and
+        get featured  in our Instagram and Facebook stories EVERY MONDAY.</string>
+    <string name="foundation_events"></string>
+    <string name="theatre_event">WORLD THEATRE DAY On this world theatre day , Junoon came
+        up with something exciting, through which you could entertain yourself and lighten the ambiance.World Theatre Day event -2020 , a set of Four online events  :-\n\n
+ 1. Mimicry Event\n
+ 2. Dialogue Recitation Competition\n
+ 3. Emoji Face making\n
+ 4. Bollywood quiz \n</string>
+<string name="health_events">WORLD HEALTH DAY -2020\n\n
+    \"To keep the body in good health is a duty... otherwise we shall not be able to keep our
+    mind strong and clear.\"\n -BUDDHA.\n\n
+Having a good health and a fit body is a must today . On the occasion of World Health Day - 7th April,2020 Junoon -The Arts and Cultural club
+    introduced you to the oldest form of exercise -YOGA and oldest methods of  medical Science -AYURVEDA .
+Moreover , to prove your fitness and your knowledge , it had a MR.FIT challenge.
+Events
+OJAS-Yogic Posture Competition\n
+Prakriti-Ayurveda Gyan\n
+Mr. Fit Challenge\n</string>
+<string name="ballet_rhythm_events"> BALLET AND RHYTHM\n\n
+    The Music And Dance Society, Junoon brought an unsurpassed opportunity to  prove your mettle
+    as an Artist.
+    The online dancing and singing competition were held from 17th - 29th April . These events
+    aimed at bringing the best dance moves and
+    melodious voice on the platform. \nAs someone rightly said, dancing and singing are our escape
+    from monotony of life.</string>
+    <string name="pakh">20th September,2017 the day when the first event organised by JUNOON -
+        Pakhwada comprising
+        various
+        competitions like Quiz,Painting and Essay Writing Competition was held .</string>
+    <string name="vanmahotsav_head">VANMAHOTSAV</string>
+    <string name="foundation_head">FOUNDATION DAY</string>
+
+<string name="health_head">WORLD HEALTH DAY</string>
+<string name="ballet_rhythm_head">BALLET AND RHYTHM</string>
+    <string name="monday_head">MONDAY MOTIVATION</string>
+    <string name="theatre_head">WORLD THEATRE DAY EVENT</string>
+
+
+
+
+
+
+
+    <string name="dev">APP DEVELOPERS</string>
+
+    <string name="ayush_achievements">
+>> AYUSH VATS \nRunner up,Aaruh (solo singing competition)-ISM Dhanbad\n\n
+
+>> AYUSH VATS (and group)\nRunner up, kawaali group competition-NIT patna\n\n
+
+>> AYUSH VATS \2nd Runner up,Solo singing competition,IIT Patna\n\n
+</string>
+    <string name="ashmita_mam">
+>> MIT (2K17 Batch)\n2nd Runner Up in Rangoli Competition , Patna\n\n</string>
+    <string name="sumit_ach">
+>> SUMIT SHEKHAR \nFinalist ,Anwesha -IIT Patna\n\n
+
+>> SUMIT SHEKHAR \nFinalist ,Srijan - ISM Dhanbad\n\n
+
+ >> SUMIT SHEKHAR \nPerformer,Xavier\'s College ,Ranchi\n\n   </string>
+
+    <string name="vishay_achievements">
+>> VISHAY KAUSHIK\n2nd Runner up, Debate competition- GYANIKI\'18 DCE Darbhanga\n\n
+
+>> VISHAY KAUSHIK\nWinner, Online English essay writing competition - India Pharmaceutical Association, Bihar State Branch\n\n
+
+>> VISHAY KAUSHIK\n2nd Runner up, R. P. Singh Inter College elocution competition, 2019 on pharmacists day organised by India Pharmaceutical Association, Bihar State Branch\n\n
+
+>> VISHAY KAUSHIK\nWinner, Dumb Charades - Patna mind fest 2019 by IAS officer\’s association, Bihar Branch.\n\n
+
+>> VISHAY KAUSHIK\nWinner, Assistante literia at Anwesha \’20, the cultural fest of IIT Patna.\n\n
+
+>> VISHAY KAUSHIK\n2nd Runner up, M. L. SCHROFF inter college quiz competition organized by India Pharmaceutical Association, Bihar State Branch\n\n
+
+>> RUSHALI RAJ\nRunner Up ,Painting  Competition,National Science Day -2019\n\n
+
+>> RUSHALI RAJ\nRunner Up,Miss Fiesta ,FIESTA2.0 -2019\n\n
+
+>> RUSHALI RAJ\n Winner,Painting  Competition,Van Mahotsav-2019\n\n
+
+>> RAVIRANJAN VARMA\nWinner (State Level) ICSI QUIZ, Institute of companies secretaries of
+        India,New Delhi \n\n
+
+>> RAVIRANJAN VARMA\nAll India Rank 4, Lallantop Quiz, India Today, Noida\n\n
+
+>> RAVIRANJAN VARMA\nWinner ,Prashnavalai, MIT Muzaffarpur\n\n
+
+
+    </string>
+    <string name="dash0">NOTIFICATIONS</string>
+    <string name="dash1">JUNOON</string>
+    <string name="dash2">SOCIETIES</string>
+    <string name="dash3">FIESTA</string>
+    <string name="dash4">INITIATORS</string>
+    <string name="dash5">OUR TEAM </string>
+    <string name="dash6">ACHIEVEMENTS</string>
+    <string name="dash7">CONTACT US</string>
+    <string name="dash8">DEVELOPERS</string>
+    <string name="dash9">APP THEME</string>
+    <string name="dash11">GLIMPSE</string>
+    <string name="dash12">VIDEOS</string>
+    <string name="contact">Contact Us</string>
+
+    <string name="f18">FIESTA \'18</string>
+    <string name="f19">FIESTA 2.0</string>
+    <string name="application">Application for the Club</string>
+    <string name="madhubani">App Theme:\nMADHUBANI PAINTINGS</string>
+<string name="chair">CHAIRMAN</string>
+    <string name="f">Fiesta</string>
+    <string name="tube">You Tube</string>
+</resources>
